@@ -4,7 +4,7 @@ title: Dependency Analysis
 nav_order: 2
 has_children: true
 parent: DevSecOps
-grand_parent: xMAD0X Shiny Adventure
+grand_parent: DylanGrl Writings
 ---
 
 ## Dependency Analysis

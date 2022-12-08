@@ -1,11 +1,11 @@
 ---
 layout: default
-title: xMAD0X Shiny Adventure
+title: DylanGrl Writings
 nav_order: 2
 has_children: true
 ---
 
-## xMAD0X Shiny Adventure
+## DylanGrl Writings
 
 Welcome to the page where you will find each hacking trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news.
 

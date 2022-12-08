@@ -1,0 +1,153 @@
+{
+  "main": {
+    "id": "d499f14d670611b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "90b7c7062c5eb13b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0a00c4335d384895",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pentesting/ServicePentesting/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab027974a2bb2288",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e8ec01f074f5975",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d445ce52a43bc5d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d3826124a7706a9b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "xMAD",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "131fa1b66d0a147c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7ac301e4eaf8cbac",
+    "type": "split",
+    "children": [
+      {
+        "id": "e79380d450e33ad1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ab400b562c6387c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "pentesting/ServicePentesting/index.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8b84d2d9eceea280",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "pentesting/ServicePentesting/index.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bb0050d84074e7b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "feeb31d83bfc6691",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "pentesting/ServicePentesting/index.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0a00c4335d384895",
+  "lastOpenFiles": [
+    "devsecops/DependencyAnalysis/index.md",
+    "devsecops/SourceCodeAnalysis/SonarQube.md",
+    "devsecops/SourceCodeAnalysis/SemGrep.md",
+    "devsecops/SourceCodeAnalysis/index.md",
+    "devsecops/index.md",
+    "general/about-me.md",
+    "pentesting/MobilePentesting/Mobile_iOS-Client.md",
+    "pentesting/MobilePentesting/index.md",
+    "pentesting/ServicePentesting/HTTP(s).md",
+    "pentesting/ServicePentesting/FTP.md"
+  ]
+}

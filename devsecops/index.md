@@ -3,7 +3,7 @@ layout: default
 title: DevSecOps 
 nav_order: 2
 has_children: true
-parent: xMAD0X Shiny Adventure
+parent: DylanGrl Writings
 ---
 
 ## DevSecOps 
