@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pentesting/Information_Gathering.md",
+                "file": "pentesting/ServicePentesting/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "60f81634e415238a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pentesting/PrivilegeEscalation/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "94d99602da1a7454",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pentesting/PrivilegeEscalation/Linux.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +55,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pentesting/Information_Gathering.md",
+                "file": "pentesting/PrivilegeEscalation/Linux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pentesting/Information_Gathering.md",
+                "file": "pentesting/PrivilegeEscalation/Linux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pentesting/Information_Gathering.md"
+                "file": "pentesting/PrivilegeEscalation/Linux.md"
               }
             }
           }
@@ -148,17 +173,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6c37fee88c58749c",
+  "active": "94d99602da1a7454",
   "lastOpenFiles": [
-    "pentesting/ServicePentesting/WinRM.md",
-    "pentesting/VulnerabilityScanning.md",
     "pentesting/Shell.md",
+    "pentesting/PrivilegeEscalation/Linux.md",
+    "pentesting/ServicePentesting/FTP.md",
+    "pentesting/PrivilegeEscalation/index.md",
+    "pentesting/ServicePentesting/index.md",
+    "pentesting/index.md",
+    "pentesting/ServicePentesting/HTTP(s).md",
     "pentesting/Information_Gathering.md",
-    "pentesting/ServicePentesting/SSH.md",
-    "pentesting/ServicePentesting/SMB.md",
-    "pentesting/ServicePentesting/Scanning_&_Enumeration.md",
-    "pentesting/ServicePentesting/REDIS.md",
-    "pentesting/ServicePentesting/LDAP.md",
-    "pentesting/ServicePentesting/index.md"
+    "pentesting/ServicePentesting/WinRM.md",
+    "pentesting/VulnerabilityScanning.md"
   ]
 }
