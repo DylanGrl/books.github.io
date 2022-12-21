@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pentesting/Information_Gathering.md",
+                "file": "pentesting/ServicePentesting/HTTP(s).md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pentesting/Information_Gathering.md",
+                "file": "pentesting/ServicePentesting/HTTP(s).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pentesting/Information_Gathering.md",
+                "file": "pentesting/ServicePentesting/HTTP(s).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pentesting/Information_Gathering.md"
+                "file": "pentesting/ServicePentesting/HTTP(s).md"
               }
             }
           }
@@ -223,15 +223,15 @@
   },
   "active": "e2aa0a012df74ec7",
   "lastOpenFiles": [
-    "pentesting/index.md",
-    "general/about-me.md",
-    "pentesting/ServicePentesting/NFS.md",
-    "pentesting/Shell.md",
-    "pentesting/Tools.md",
-    "pentesting/Information_Gathering.md",
-    "pentesting/ServicePentesting/index.md",
-    "pentesting/PrivilegeEscalation/index.md",
+    "pentesting/ServicePentesting/WinRM.md",
+    "pentesting/ServicePentesting/SSH.md",
+    "pentesting/ServicePentesting/SMB.md",
     "pentesting/ServicePentesting/Scanning_&_Enumeration.md",
-    "pentesting/ServicePentesting/DNS.md"
+    "pentesting/ServicePentesting/REDIS.md",
+    "pentesting/ServicePentesting/NFS.md",
+    "pentesting/ServicePentesting/LDAP.md",
+    "pentesting/ServicePentesting/index.md",
+    "pentesting/ServicePentesting/HTTP(s).md",
+    "pentesting/ServicePentesting/FTP.md"
   ]
 }
