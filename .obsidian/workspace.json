@@ -37,8 +37,44 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "pentesting/ServicePentesting/FTP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5cce7fda818e470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pentesting/Shell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0b55458a4c485fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "pentesting/PrivilegeEscalation/Linux.md",
                 "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76344d3c0ea052cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pentesting/PrivilegeEscalation/Windows.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -56,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -122,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pentesting/PrivilegeEscalation/Linux.md",
+                "file": "pentesting/PrivilegeEscalation/Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pentesting/PrivilegeEscalation/Linux.md",
+                "file": "pentesting/PrivilegeEscalation/Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pentesting/PrivilegeEscalation/Linux.md"
+                "file": "pentesting/PrivilegeEscalation/Windows.md"
               }
             }
           }
@@ -173,17 +209,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "94d99602da1a7454",
+  "active": "76344d3c0ea052cf",
   "lastOpenFiles": [
     "pentesting/Shell.md",
+    "pentesting/PrivilegeEscalation/Windows.md",
     "pentesting/PrivilegeEscalation/Linux.md",
-    "pentesting/ServicePentesting/FTP.md",
-    "pentesting/PrivilegeEscalation/index.md",
-    "pentesting/ServicePentesting/index.md",
-    "pentesting/index.md",
-    "pentesting/ServicePentesting/HTTP(s).md",
+    "pentesting/Tools.md",
     "pentesting/Information_Gathering.md",
-    "pentesting/ServicePentesting/WinRM.md",
-    "pentesting/VulnerabilityScanning.md"
+    "index.md",
+    "general/about-me.md",
+    "pentesting/ServicePentesting/NFS.md",
+    "pentesting/ServicePentesting/FTP.md",
+    "pentesting/PrivilegeEscalation/index.md"
   ]
 }
