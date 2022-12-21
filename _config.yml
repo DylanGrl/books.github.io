@@ -3,6 +3,8 @@ description: A journey in Pentesting & DevSecOps
 
 remote_theme: pmarsceill/just-the-docs
 
+color_scheme: light
+
 search_enabled: true
 search:
   # Split pages into sections that can be searched individually
