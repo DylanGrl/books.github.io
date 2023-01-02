@@ -145,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pentesting/ActiveDirectory/ActiveDirectoryPostExploitation.md",
+                "file": "pentesting/ActiveDirectory/index.md",
                 "mode": "source",
                 "source": false
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pentesting/ActiveDirectory/ActiveDirectoryPostExploitation.md",
+                "file": "pentesting/ActiveDirectory/index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pentesting/ActiveDirectory/ActiveDirectoryPostExploitation.md",
+                "file": "pentesting/ActiveDirectory/index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pentesting/ActiveDirectory/ActiveDirectoryPostExploitation.md"
+                "file": "pentesting/ActiveDirectory/index.md"
               }
             }
           }
@@ -293,15 +293,15 @@
   },
   "active": "b566611890914be0",
   "lastOpenFiles": [
+    "pentesting/MobilePentesting/index.md",
+    "pentesting/ActiveDirectory/index.md",
+    "pentesting/ActiveDirectory/ActiveDirectoryPostExploitation.md",
     "pentesting/ActiveDirectory/ActiveDirectoryPostCompromise.md",
     "pentesting/ActiveDirectory/ActiveDirectoryAttackVectors.md",
     "pentesting/ActiveDirectory/ActiveDirectoryIntroduction.md",
-    "pentesting/ActiveDirectory/index.md",
     "pentesting/ServicePentesting/HTTP(s).md",
     "pentesting/ServicePentesting/index.md",
     "pentesting/MobilePentesting/Mobile_iOS-Client.md",
-    "pentesting/MobilePentesting/index.md",
-    "pentesting/index.md",
-    "pentesting/Tools.md"
+    "pentesting/index.md"
   ]
 }
