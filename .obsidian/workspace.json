@@ -97,7 +97,55 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pentesting/ActiveDirectory.md",
+                "file": "pentesting/index.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e4904853aa7a2ec6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pentesting/ActiveDirectory/ActiveDirectoryIntroduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c3e6de847b8202ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pentesting/ActiveDirectory/ActiveDirectoryAttackVectors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d957e3f2d8c1e7e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pentesting/ActiveDirectory/ActiveDirectoryPostCompromise.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b566611890914be0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pentesting/ActiveDirectory/ActiveDirectoryPostExploitation.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -182,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pentesting/ActiveDirectory.md",
+                "file": "pentesting/ActiveDirectory/ActiveDirectoryPostExploitation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pentesting/ActiveDirectory.md",
+                "file": "pentesting/ActiveDirectory/ActiveDirectoryPostExploitation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pentesting/ActiveDirectory.md"
+                "file": "pentesting/ActiveDirectory/ActiveDirectoryPostExploitation.md"
               }
             }
           }
@@ -243,17 +291,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a66b2299854684a6",
+  "active": "b566611890914be0",
   "lastOpenFiles": [
-    "pentesting/Tools.md",
-    "pentesting/Information_Gathering.md",
-    "pentesting/BufferOverflow.md",
-    "pentesting/ServicePentesting/WinRM.md",
-    "pentesting/ServicePentesting/SSH.md",
-    "pentesting/ServicePentesting/SMB.md",
-    "pentesting/ServicePentesting/Scanning_&_Enumeration.md",
-    "pentesting/ServicePentesting/REDIS.md",
-    "pentesting/ServicePentesting/NFS.md",
-    "pentesting/ServicePentesting/LDAP.md"
+    "pentesting/ActiveDirectory/ActiveDirectoryPostCompromise.md",
+    "pentesting/ActiveDirectory/ActiveDirectoryAttackVectors.md",
+    "pentesting/ActiveDirectory/ActiveDirectoryIntroduction.md",
+    "pentesting/ActiveDirectory/index.md",
+    "pentesting/ServicePentesting/HTTP(s).md",
+    "pentesting/ServicePentesting/index.md",
+    "pentesting/MobilePentesting/Mobile_iOS-Client.md",
+    "pentesting/MobilePentesting/index.md",
+    "pentesting/index.md",
+    "pentesting/Tools.md"
   ]
 }
