@@ -4,167 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "41ba0ba267e61390",
+        "id": "c7e287556482ac75",
         "type": "tabs",
         "children": [
           {
-            "id": "6c37fee88c58749c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pentesting/ServicePentesting/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60f81634e415238a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pentesting/PrivilegeEscalation/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "94d99602da1a7454",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pentesting/ServicePentesting/FTP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5cce7fda818e470",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pentesting/BufferOverflow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0b55458a4c485fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pentesting/PrivilegeEscalation/Linux.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76344d3c0ea052cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pentesting/ServicePentesting/FTP.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e2aa0a012df74ec7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pentesting/Tools.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a66b2299854684a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pentesting/index.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e4904853aa7a2ec6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pentesting/ActiveDirectory/00.ActiveDirectoryIntroduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c3e6de847b8202ed",
+            "id": "3f737ebb42ef837c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "pentesting/ActiveDirectory/ActiveDirectoryAttackVectors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d957e3f2d8c1e7e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pentesting/ActiveDirectory/ActiveDirectoryPostCompromise.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b566611890914be0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pentesting/ActiveDirectory/ActiveDirectoryAttackVectors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e86edc8f8cd876b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pentesting/ServicePentesting/SMB.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 11
+        ]
       }
     ],
     "direction": "vertical"
@@ -291,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b566611890914be0",
+  "active": "3f737ebb42ef837c",
   "lastOpenFiles": [
-    "pentesting/ServicePentesting/FTP.md",
-    "pentesting/ActiveDirectory/ActiveDirectoryAttackVectors.md",
     "pentesting/ActiveDirectory/ActiveDirectoryPostCompromise.md",
-    "pentesting/ActiveDirectory/ActiveDirectoryPostExploitation.md",
+    "docs/assets/Pasted image 20230217230017.png",
+    "pentesting/ActiveDirectory/ActiveDirectoryAttackVectors.md",
+    "pentesting/ServicePentesting/SMB.md",
     "pentesting/ActiveDirectory/00.ActiveDirectoryIntroduction.md",
-    "pentesting/ActiveDirectory/index.md",
-    "pentesting/MobilePentesting/index.md",
-    "pentesting/MobilePentesting/Mobile_iOS-Client.md",
-    "pentesting/ServicePentesting/index.md",
-    "pentesting/ServicePentesting/Scanning_&_Enumeration.md"
+    "pentesting/index.md",
+    "pentesting/Tools.md",
+    "pentesting/ServicePentesting/FTP.md",
+    "pentesting/PrivilegeEscalation/Linux.md",
+    "pentesting/BufferOverflow.md"
   ]
 }
