@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c7e287556482ac75",
+        "id": "b786f4970b03ef47",
         "type": "tabs",
         "children": [
           {
-            "id": "3f737ebb42ef837c",
+            "id": "01253438dcc9f3ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,17 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3f737ebb42ef837c",
+  "active": "01253438dcc9f3ce",
   "lastOpenFiles": [
-    "pentesting/ActiveDirectory/ActiveDirectoryPostCompromise.md",
-    "docs/assets/Pasted image 20230217230017.png",
+    "writtings/docs/assets/LLMNR.png.md",
     "pentesting/ActiveDirectory/ActiveDirectoryAttackVectors.md",
+    "pentesting/ActiveDirectory/ActiveDirectoryPostCompromise.md",
+    "docs/assets/SMB_Relay.png",
+    "docs/assets/LLMNR.png",
     "pentesting/ServicePentesting/SMB.md",
     "pentesting/ActiveDirectory/00.ActiveDirectoryIntroduction.md",
     "pentesting/index.md",
     "pentesting/Tools.md",
-    "pentesting/ServicePentesting/FTP.md",
-    "pentesting/PrivilegeEscalation/Linux.md",
-    "pentesting/BufferOverflow.md"
+    "pentesting/ServicePentesting/FTP.md"
   ]
 }
