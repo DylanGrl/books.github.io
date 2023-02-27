@@ -13,34 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pentesting/Tools.md",
+                "file": "pentesting/ServicePentesting/HTTP(s).md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "b301140e361f8d06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "pentesting/Post Exploitation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "97b590115bf9f059",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "pentesting/ServicePentesting/HTTP(s).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "pentesting/ServicePentesting/HTTP(s).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "pentesting/ServicePentesting/HTTP(s).md"
+              }
             }
           }
         ]
@@ -163,19 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97b590115bf9f059",
+  "active": "ea575aa259f7eb21",
   "lastOpenFiles": [
     "pentesting/Post Exploitation.md",
     "pentesting/Tools.md",
+    "pentesting/VulnerabilityScanning.md",
+    "pentesting/Information_Gathering.md",
     "pentesting/ActiveDirectory/03.ActiveDirectoryPostCompromise.md",
     "writtings/docs/assets/Pasted image 20230223184254.png.md",
     "docs/assets/Pasted image 20230221224914.png",
     "docs/assets/Hashes.png",
     "pentesting/ActiveDirectory/02.ActiveDirectoryPostExploitation.md",
-    "pentesting/ActiveDirectory/01.ActiveDirectoryAttackVectors.md",
-    "pentesting/ActiveDirectory/00.ActiveDirectoryIntroduction.md",
-    "writtings/docs/assets/LLMNR.png.md",
-    "docs/assets/SMB_Relay.png",
-    "docs/assets/LLMNR.png"
+    "pentesting/ActiveDirectory/01.ActiveDirectoryAttackVectors.md"
   ]
 }
