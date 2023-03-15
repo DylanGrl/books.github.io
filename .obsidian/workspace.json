@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pentesting/ServicePentesting/HTTP(s).md",
+                "file": "pentesting/PrivilegeEscalation/Windows.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pentesting/ServicePentesting/HTTP(s).md",
+                "file": "pentesting/PrivilegeEscalation/Windows.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pentesting/ServicePentesting/HTTP(s).md",
+                "file": "pentesting/PrivilegeEscalation/Windows.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pentesting/ServicePentesting/HTTP(s).md"
+                "file": "pentesting/PrivilegeEscalation/Windows.md"
               }
             }
           }
@@ -148,15 +148,25 @@
   },
   "active": "ea575aa259f7eb21",
   "lastOpenFiles": [
+    "docs/assets/Pasted image 20230315222731.png",
+    "docs/assets/Pasted image 20230315222728.png",
+    "docs/assets/Pasted image 20230315222529.png",
+    "docs/assets/Pasted image 20230315222528.png",
+    "pentesting/ActiveDirectory/03.ActiveDirectoryPostCompromise.md",
+    "pentesting/PrivilegeEscalation/Windows.md",
+    "docs/assets/Pasted image 20230315222308.png",
+    "docs/assets/Pasted image 20230315222303.png",
+    "pentesting/ServicePentesting/FTP.md",
+    "pentesting/ServicePentesting/Scanning_&_Enumeration.md",
+    "docs/assets/Pasted image 20230315180709.png",
+    "pentesting/PrivilegeEscalation/Linux.md",
+    "writtings/docs/assets/Pasted image 20230223184254.png.md",
+    "pentesting/ServicePentesting/HTTP(s).md",
     "pentesting/Post Exploitation.md",
     "pentesting/Tools.md",
     "pentesting/VulnerabilityScanning.md",
     "pentesting/Information_Gathering.md",
-    "pentesting/ActiveDirectory/03.ActiveDirectoryPostCompromise.md",
-    "writtings/docs/assets/Pasted image 20230223184254.png.md",
     "docs/assets/Pasted image 20230221224914.png",
-    "docs/assets/Hashes.png",
-    "pentesting/ActiveDirectory/02.ActiveDirectoryPostExploitation.md",
-    "pentesting/ActiveDirectory/01.ActiveDirectoryAttackVectors.md"
+    "docs/assets/Hashes.png"
   ]
 }
