@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: x008-Hetemit

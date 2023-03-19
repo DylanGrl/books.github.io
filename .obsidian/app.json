@@ -3,7 +3,8 @@
   "newLinkFormat": "absolute",
   "newFileLocation": "current",
   "newFileFolderPath": "",
-  "attachmentFolderPath": "docs/assets",
+  "attachmentFolderPath": "./",
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true
 }

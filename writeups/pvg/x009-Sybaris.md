@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: x009-Sybaris

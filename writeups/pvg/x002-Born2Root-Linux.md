@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: x002-Born2Root
