@@ -3,7 +3,7 @@
   "newLinkFormat": "absolute",
   "newFileLocation": "current",
   "newFileFolderPath": "",
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "./attachments",
   "promptDelete": false,
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true

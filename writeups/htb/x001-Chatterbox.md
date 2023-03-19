@@ -134,11 +134,35 @@ And inject the output inside the python script then run it with our tcp handler 
 
 **Proof of Concept / Code Here:**
 
+From our active session we could search for other passwords:
+
+```powershell
+reg query HKLM /f password /t REG_SZ /s
+```
+
+![](writeups/htb/attachments/Pasted%20image%2020230319143339.png)
+
+
+```powershell
+reg query "HKLM\SOFTWARE\Microsoft\Windows NT\Currentversion\Winlogon"
+```
+
+![](writeups/htb/attachments/Pasted%20image%2020230319143446.png)
+
+
+Alfred is actually able to login as Administrator with his credential, we could update the permission in the Administrator folder to read the content of the file:
+
+![](writeups/htb/attachments/Pasted%20image%2020230319152403.png)
+
 **Proof Screenshot Here:**
+
+![](writeups/htb/attachments/Pasted%20image%2020230319152419.png)
 
 **Proof.txt Contents:**
 
+`203088ee5f9011da8cddfd9f8672ae24`
 
 --------
 
 ### NOTES : 
+
