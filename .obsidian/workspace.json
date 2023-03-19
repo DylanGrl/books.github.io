@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ea575aa259f7eb21",
+            "id": "0b06d0062ba42419",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pentesting/PrivilegeEscalation/Windows.md",
+                "file": "writeups/pvg/x009-Sybaris.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pentesting/PrivilegeEscalation/Windows.md",
+                "file": "writeups/pvg/x009-Sybaris.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pentesting/PrivilegeEscalation/Windows.md",
+                "file": "writeups/pvg/x009-Sybaris.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pentesting/PrivilegeEscalation/Windows.md"
+                "file": "writeups/pvg/x009-Sybaris.md"
               }
             }
           }
@@ -146,29 +146,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ea575aa259f7eb21",
+  "active": "0b06d0062ba42419",
   "lastOpenFiles": [
-    "pentesting/ServicePentesting/Scanning_&_Enumeration.md",
-    "pentesting/Information_Gathering.md",
-    "pentesting/PrivilegeEscalation/Windows.md",
-    "pentesting/ServicePentesting/SMB.md",
-    "docs/assets/Pasted image 20230316184446.png",
-    "docs/assets/Pasted image 20230316184445.png",
-    "docs/assets/Pasted image 20230316184354.png",
-    "docs/assets/Pasted image 20230316184352.png",
-    "docs/assets/Pasted image 20230315222731.png",
-    "docs/assets/Pasted image 20230315222728.png",
-    "docs/assets/Pasted image 20230315222529.png",
-    "docs/assets/Pasted image 20230315222528.png",
-    "pentesting/ActiveDirectory/03.ActiveDirectoryPostCompromise.md",
-    "docs/assets/Pasted image 20230315222308.png",
-    "docs/assets/Pasted image 20230315222303.png",
-    "pentesting/ServicePentesting/FTP.md",
-    "pentesting/PrivilegeEscalation/Linux.md",
-    "writtings/docs/assets/Pasted image 20230223184254.png.md",
+    "writeups/pvg/x008-Hetemit.md",
+    "writeups/pvg/x007-UT99.md",
+    "writeups/pvg/x006-Wombo.md",
+    "writeups/pvg/x005-Zino.md",
+    "writeups/pvg/x004-Banzai-Linux.md",
+    "writeups/pvg/x003-Jacko-Windows.md",
+    "writeups/pvg/x002-Born2Root-Linux.md",
+    "pentesting/index.md",
+    "pentesting/ServicePentesting/index.md",
+    "writeups/pvg/x001-ClamAV-Linux.md",
+    "writeups/pvg/index.md",
     "pentesting/ServicePentesting/HTTP(s).md",
-    "pentesting/Post Exploitation.md",
-    "pentesting/Tools.md",
-    "pentesting/VulnerabilityScanning.md"
+    "writeups/pvg/attachments/Pasted image 20220517191508.png",
+    "writeups/pvg/attachments/Pasted image 20220301234528.png",
+    "writeups/pvg/attachments/Pasted image 20220517191537.png",
+    "writeups/pvg/attachments/Pasted image 20220402162115.png",
+    "writeups/pvg/attachments/Pasted image 20220515225243.png",
+    "writeups/pvg/attachments/Pasted image 20220402162302.png",
+    "writeups/pvg/attachments/Pasted image 20220402162514.png",
+    "writeups/pvg/attachments/Pasted image 20220220163503.png",
+    "writeups/pvg/attachments/Pasted image 20220302222543.png",
+    "writeups/pvg/attachments/Pasted image 20220302171405.png",
+    "writeups/pvg/x009-Sybaris.md",
+    "writeups/pvg/attachments",
+    "writeups/x009-Sybaris.md",
+    "writeups/x008-Hetemit.md",
+    "writeups/x007-UT99.md",
+    "writeups/x006-Wombo.md",
+    "writeups/x005-Zino.md",
+    "writeups/x004-Banzai-Linux.md",
+    "writeups/x003-Jacko-Windows.md",
+    "writeups/x002-Born2Root-Linux.md",
+    "writeups/x001-ClamAV-Linux.md",
+    "writeups/attachments",
+    "pentesting/ServicePentesting/SSH.md",
+    "pentesting/PrivilegeEscalation/Windows.md",
+    "writeups/pvg",
+    "writeups/htb copy/index.md",
+    "writeups/htb copy",
+    "writeups/htb/index.md",
+    "writeups/htb",
+    "writeups"
   ]
 }
