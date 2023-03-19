@@ -2,9 +2,9 @@
 layout: default
 title: x006-Wombo
 nav_order: 2
-has_children: true
-parent: writeups
-grand_parent: DylanGrl Writings
+has_children: false
+parent: ProvingGrounds
+grand_parent: Writeups
 ---
 
 ## x006-Wombo

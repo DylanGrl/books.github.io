@@ -3,9 +3,9 @@
 layout: default
 title: x005-Zino
 nav_order: 2
-has_children: true
-parent: writeups
-grand_parent: DylanGrl Writings
+has_children: false
+parent: ProvingGrounds
+grand_parent: Writeups
 ---
 
 ## x005-Zino

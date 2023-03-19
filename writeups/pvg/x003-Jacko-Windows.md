@@ -3,9 +3,9 @@
 layout: default
 title: x003-Jacko
 nav_order: 2
-has_children: true
-parent: writeups
-grand_parent: DylanGrl Writings
+has_children: false
+parent: ProvingGrounds
+grand_parent: Writeups
 ---
 
 ## x003-Jacko

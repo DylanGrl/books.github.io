@@ -3,9 +3,9 @@
 layout: default
 title: x009-Sybaris
 nav_order: 2
-has_children: true
-parent: writeups
-grand_parent: DylanGrl Writings
+has_children: false
+parent: ProvingGrounds
+grand_parent: Writeups
 ---
 ## x009-Sybaris 
 

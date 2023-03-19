@@ -3,9 +3,9 @@
 layout: default
 title: x008-Hetemit
 nav_order: 2
-has_children: true
-parent: writeups
-grand_parent: DylanGrl Writings
+has_children: false
+parent: ProvingGrounds
+grand_parent: Writeups
 ---
 
 ## x008-Hetemit
